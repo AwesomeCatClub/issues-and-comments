@@ -4,4 +4,4 @@ comment stuff here
 
 <br>
 
-[Wiki Link](//awesomecatclub.github.io/issues-and-comments/wiki)
+[Wiki Link](https://awesomecatclub.github.io/issues-and-comments/wiki)
