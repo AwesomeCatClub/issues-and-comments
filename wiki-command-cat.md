@@ -4,3 +4,5 @@
 Cats are awesome. Cool.
 <br>
 `cat <file>` is a simple command in the programing lanuage `Bash` and it allows you to quickly view small plain text documents in a Terminal.
+<br><hr>
+See Also: [Cats](wiki-cats),
