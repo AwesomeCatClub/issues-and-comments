@@ -5,3 +5,5 @@ comment stuff here
 <br>
 
 [Wiki Link](https://awesomecatclub.github.io/issues-and-comments/wiki)
+
+[NOTE: you can also use the Disqus Comments section.](https://awesomecatclub.github.io/comment.html)
